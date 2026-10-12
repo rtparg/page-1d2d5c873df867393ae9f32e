@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "304f4f13192fb7a584b56dde",
+  "owner": "rtparg",
+  "repo": "page-1d2d5c873df867393ae9f32e",
+  "title": "机场测评",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1d2d5c873df867393ae9f32e",
+      "a": "机场测评",
+      "b": "",
+      "entity": "机场测评",
+      "brand": "机场测评",
+      "separator": "",
+      "path": "index.html",
+      "hash": "de6ee1249ad75b21bbf54ec40f1913f14762c5ad159d1b43a8bcb84b530b0759",
+      "content": {
+        "keyword1": "机场测评",
+        "keyword2": "",
+        "primary_entity": "机场测评",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场测评为您提供专业的VPN机场测评，包括基础版、旗舰版、团队版等套餐，支持每月GB流量、设备在线、流媒体解锁等，助您选择优质客户端下载和官网下载。",
+          "AI_DESCRIPTION": "机场测评为您提供专业的VPN机场测评，包括基础版、旗舰版、团队版等套餐，支持每月GB流量、设备在线、流媒体解锁等，助您选择优质客户端下载和官网下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --purple: #6b46c1;\n            --light-gray: #f8f9fa;\n            --dark-gray: #333;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background-color: var(--light-gray);\n            color: var(--dark-gray);\n            line-height: 1.7;\n            font-size: 16px;\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        @media (max-width: 768px) {\n            body {\n                padding: 15px;\n                font-size: 15px;\n            }\n        }\n        nav {\n            background: white;\n            padding: 1rem 0;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.08);\n            border-radius: 8px;\n            margin-bottom: 2rem;\n        }\n        .nav-content {\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n            flex-wrap: wrap;\n            gap: 1rem;\n        }\n        .logo {\n            font-size: 1.5rem;\n            font-weight: bold;\n            color: var(--purple);\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n            flex-wrap: wrap;\n        }\n        .nav-links a {\n            color: var(--dark-gray);\n            text-decoration: none;\n            font-weight: 500;\n        }\n        .nav-links a:hover {\n            color: var(--purple);\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n        }\n        header {\n            text-align: center;\n            padding: 3rem 1rem;\n            background: linear-gradient(135deg, #e0e7ff 0%, #f3e8ff 100%);\n            border-radius: 12px;\n            margin-bottom: 3rem;\n        }\n        h1 {\n            font-size: 2.8rem;\n            color: var(--purple);\n            margin-bottom: 1rem;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2.2rem;\n            }\n        }\n        .subtitle {\n            font-size: 1.3rem;\n            color: #4a5568;\n            margin-bottom: 2rem;\n        }\n        .cta-btn {\n            display: inline-block;\n            background: var(--purple);\n            color: white;\n            padding: 14px 32px;\n            border-radius: 6px;\n            text-decoration: none;\n            font-weight: bold;\n            font-size: 1.1rem;\n            transition: background 0.3s;\n        }\n        .cta-btn:hover {\n            background: #5533a0;\n        }\n        section {\n            margin-bottom: 3rem;\n        }\n        h2 {\n            font-size: 1.8rem;\n            color: var(--purple);\n            margin-bottom: 1.5rem;\n            padding-bottom: 0.5rem;\n            border-bottom: 3px solid #e2e8f0;\n        }\n        @media (max-width: 768px) {\n            h2 {\n                font-size: 1.6rem;\n            }\n        }\n        .intro-text {\n            font-size: 1.1rem;\n            background: white;\n            padding: 2rem;\n            border-radius: 10px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n        }\n        .scenarios-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));\n            gap: 1.5rem;\n        }\n        @media (max-width: 768px) {\n            .scenarios-grid {\n                grid-template-columns: 1fr;\n            }\n        }\n        .scenario-card {\n            background: white;\n            padding: 1.8rem;\n            border-radius: 10px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n            transition: transform 0.2s;\n        }\n        .scenario-card:hover {\n            transform: translateY(-5px);\n        }\n        .scenario-card h3 {\n            color: var(--purple);\n            margin-bottom: 1rem;\n        }\n        .operation {\n            background: white;\n            padding: 2rem;\n            border-radius: 10px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n        }\n        .operation ol {\n            counter-reset: step;\n            list-style: none;\n        }\n        .operation li {\n            counter-increment: step;\n            margin-bottom: 1.5rem;\n            position: relative;\n            padding-left: 3rem;\n        }\n        .operation li:before {\n            content: counter(step);\n            position: absolute;\n            left: 0;\n            top: 0;\n            background: var(--purple);\n            color: white;\n            width: 2rem;\n            height: 2rem;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n        }\n        .plans-section {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.8rem;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.06);\n            transition: all 0.3s ease;\n        }\n        .plan-card.featured {\n            border: 3px solid var(--purple);\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: 20px;\n            right: 20px;\n            background: var(--purple);\n            color: white;\n            padding: 4px 14px;\n            border-radius: 20px;\n            font-size: 0.85rem;\n            font-weight: bold;\n        }\n        .plan-header {\n            padding: 1.8rem 1.5rem 1rem;\n            background: linear-gradient(90deg, #f3e8ff, #e0e7ff);\n            text-align: center;\n        }\n        .plan-name {\n            font-size: 1.4rem;\n            color: var(--purple);\n            margin-bottom: 0.5rem;\n        }\n        .plan-price {\n            font-size: 2rem;\n            font-weight: bold;\n            color: #333;\n        }\n        .plan-annual {\n            font-size: 1rem;\n            color: #666;\n            margin-top: 0.5rem;\n        }\n        .plan-features {\n            padding: 1.5rem;\n            list-style: none;\n        }\n        .plan-features li {\n            padding: 8px 0;\n            border-bottom: 1px solid #eee;\n            font-size: 1rem;\n        }\n        .plan-features li:last-child {\n            border-bottom: none;\n        }\n        .faq-section {\n            background: white;\n            border-radius: 12px;\n            padding: 2rem;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.06);\n        }\n        details {\n            margin-bottom: 1.2rem;\n            border: 1px solid #e2e8f0;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1.2rem 1.5rem;\n            font-weight: 600;\n            cursor: pointer;\n            background: #f8f9fa;\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n        }\n        summary:hover {\n            background: #f0f0f5;\n        }\n        .summary-text {\n            flex: 1;\n        }\n        .answer {\n            padding: 1.5rem;\n            background: #fff;\n            color: #444;\n            font-size: 1rem;\n        }\n        footer {\n            background: var(--purple);\n            color: white;\n            padding: 2.5rem 1rem;\n            border-radius: 12px;\n            margin-top: 3rem;\n            text-align: center;\n        }\n        .footer-content {\n            max-width: 1100px;\n            margin: 0 auto;\n        }\n        .footer-links {\n            margin: 1.5rem 0;\n            display: flex;\n            justify-content: center;\n            flex-wrap: wrap;\n            gap: 2rem;\n        }\n        .footer-links a {\n            color: white;\n            text-decoration: none;\n            margin: 0 10px;\n        }\n        .footer-links a:hover {\n            text-decoration: underline;\n        }\n        .footer-text {\n            font-size: 0.95rem;\n            opacity: 0.9;\n        }\n    </style>\n\n\n    <nav>\n        <div class=\"nav-content\">\n            <div class=\"logo\">机场测评</div>\n            <div class=\"nav-links\">\n                <a href=\"#\">首页</a>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#download\">客户端下载</a>\n            </div>\n        </div>\n    </nav>\n\n    <main>\n        <header>\n            <h1>机场测评</h1>\n            <p class=\"subtitle\">专业VPN机场测评平台 | 提供加速器套餐推荐与客户端下载</p>\n            <a href=\"#plans\" class=\"cta-btn\">查看最新套餐</a>\n        </header>\n\n        <section>\n            <div class=\"intro-text\">\n                <h2>品牌简介</h2>\n                <p>机场测评是一个专注于VPN机场评测的专业平台，我们通过真实性能测试和用户反馈，为您提供客观、专业的加速器推荐。无论您需要全球加速、流媒体解锁还是企业级服务，我们都能为您匹配最优方案。客户端下载操作简单，支持主流设备系统。</p>\n            </div>\n        </section>\n\n        <section>\n            <h2>使用场景</h2>\n            <div class=\"scenarios-grid\">\n                <div class=\"scenario-card\">\n                    <h3>流媒体解锁</h3>\n                    <p>Netflix、Disney+、YouTube 等平台原生解锁，享受高清内容畅享。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>游戏加速</h3>\n                    <p>IPLC专线优化低延迟，适合在线竞技和多人游戏。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>家庭网络</h3>\n                    <p>多设备同时在线，轻松支持家庭多人使用。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>企业办公</h3>\n                    <p>VIP专属节点和定制路由，确保企业数据安全与稳定。</p>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"operation\">\n            <h2>操作说明</h2>\n            <ol>\n                <li>选择适合您的套餐（基础版 / 旗舰版 / 团队版）</li>\n                <li>完成在线支付</li>\n                <li>下载官方客户端（Windows / macOS / iOS / Android）</li>\n                <li>导入订阅链接进行激活</li>\n                <li>选择节点连接加速</li>\n            </ol>\n            <p>客户端下载：访问下方链接获取最新版客户端，操作便捷，立即开始使用。</p>\n        </section>\n\n        <section id=\"download\">\n            <h2>客户端选择</h2>\n            <p>根据设备系统选择最优客户端：Windows/macOS 用户推荐桌面版，移动端用户使用iOS/Android App。所有客户端均支持一键订阅导入，零配置即可加速。</p>\n        </section>\n\n        <section id=\"plans\">\n            <h2>套餐推荐</h2>\n            <div class=\"plans-section\">\n                \n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">基础版</div>\n                        <div class=\"plan-price\">¥15/月</div>\n                        <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n                    </div>\n                    <ul class=\"plan-features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n\n                \n                <div class=\"plan-card featured\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">旗舰版</div>\n                        <div class=\"plan-price\">¥35/月</div>\n                        <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n                    </div>\n                    <ul class=\"plan-features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n\n                \n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">团队版</div>\n                        <div class=\"plan-price\">¥85/月</div>\n                        <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n                    </div>\n                    <ul class=\"plan-features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"faq\" class=\"faq-section\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary><span class=\"summary-text\">什么是机场测评？</span></summary>\n                <div class=\"answer\">机场测评是专业的VPN机场评测平台，提供真实性能测评和套餐推荐，帮助用户选择最适合的加速器方案和客户端下载。</div>\n            </details>\n            <details>\n                <summary><span class=\"summary-text\">基础版适合哪些用户？</span></summary>\n                <div class=\"answer\">基础版适合个人用户或小型家庭，100GB流量+3台设备支持，满足日常上网加速和基础流媒体需求，性价比高。</div>\n            </details>\n            <details>\n                <summary><span class=\"summary-text\">旗舰版的优势有哪些？</span></summary>\n                <div class=\"answer\">旗舰版提供300GB流量、全节点流媒体解锁、IPLC游戏加速和优先客服支持，适合追求高质量使用体验的用户。</div>\n            </details>\n            <details>\n                <summary><span class=\"summary-text\">如何选择客户端下载？</span></summary>\n                <div class=\"answer\">根据设备系统选择：桌面端选Windows/macOS版，移动端选iOS/Android App，所有客户端均支持订阅一键导入，操作简便。</div>\n            </details>\n            <details>\n                <summary><span class=\"summary-text\">团队版适合企业用户吗？</span></summary>\n                <div class=\"answer\">是的，团队版支持20台设备、VIP专属节点、企业定制路由，并提供专属客户经理服务，满足大型团队需求。</div>\n            </details>\n            <details>\n                <summary><span class=\"summary-text\">套餐流量如何计算？</span></summary>\n                <div class=\"answer\">流量按月累计使用，超出部分按超额计费，具体以官方页面实时显示为准。</div>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n    <footer>\n        <div class=\"footer-content\">\n            <div class=\"logo\">机场测评</div>\n            <div class=\"footer-links\">\n                <a href=\"#\">官网</a>\n                <a href=\"#\">客户端下载</a>\n                <a href=\"#\">套餐详情</a>\n                <a href=\"#\">常见问题</a>\n            </div>\n            <div class=\"footer-text\">友情链接：示例链接 # | 隐私政策 | 免责声明</div>\n        </div>\n    </footer>\n\n",
+          "hash": "525bb7ae1b9cd602dfed309930be1b39c7c7a26acafa86d50787e2eb6cfeaede",
+          "seo": {
+            "title": "机场测评 - 专业VPN机场推荐与客户端下载",
+            "keywords": "机场测评, VPN机场, 加速器, 客户端下载, 机场订阅, 官网下载, VPN加速网络",
+            "description": "机场测评为您提供专业的VPN机场测评，包括基础版、旗舰版、团队版等套餐，支持每月GB流量、设备在线、流媒体解锁等，助您选择优质客户端下载和官网下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lskxcsq.cn",
+    "host": "p-a71afbf993.lskxcsq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f15a12922ef6cf3134f26e79ffab6cf8f12e8b803224cfd3d831786ace1aa6ff",
+    "sitemap.xml": "127e4c0d27d153296bc44a0d091ccdd93dc5814870e2982a062c0a031dc0d0b5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "58060cd4f89e09c807c136ce63eb4df5cdb9fe783025d80a6a93798507226c15",
+    "robots.txt": "ef6f283268b4718a9539b93a9a17c85f2c51bb80efc147064c41dc4420788cc9",
+    "a9f68684fdb3beb0f51748a0779ee09e.txt": "639a2cb6f705635fa820a1580eecd2abaeea219340f5cf0141a4eb68a7a5c66d"
+  },
+  "revision": "6087ae4a4f3480f29f83f48de0b0ceb319641ea450333f78f66d2013fb11f5c7"
+}
